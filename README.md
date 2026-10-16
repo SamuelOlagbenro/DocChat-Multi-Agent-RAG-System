@@ -129,4 +129,4 @@ IBM Skills Network for giving the platform to learn more about AI Agents.
 ## Author
 
 **Samuel**: Data Scientist & AI Engineer.
-[LinkedIn](#https://www.linkedin.com/in/samuel-olagbenro) · [GitHub](#https://github.com/SamuelOlagbenro) · [Portfolio](#https://www.datascienceportfol.io/Seniola961)
+[LinkedIn](https://www.linkedin.com/in/samuel-olagbenro) · [GitHub](https://github.com/SamuelOlagbenro) · [Portfolio](https://www.datascienceportfol.io/Seniola961)
